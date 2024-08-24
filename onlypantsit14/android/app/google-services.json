@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324605475240",
+    "project_id": "try-database-cf2f9",
+    "storage_bucket": "try-database-cf2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324605475240:android:e8be46625e055f73b6c59d",
+        "android_client_info": {
+          "package_name": "com.example.onlypantsit14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6h-tFm_P2eZMe_1ELwPaf8YTXfwarTp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
